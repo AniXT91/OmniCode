@@ -90,7 +90,7 @@ const FormComponent = () => {
 
     return (
         <div className="flex w-full max-w-[500px] flex-col items-center justify-center gap-4 p-4 sm:w-[500px] sm:p-8">
-           <h1  className=" rounded-md border  px-3 py-3 focus:outline-none">code&chill</h1>
+           <h1  className=" rounded-md border  px-3 py-3 focus:outline-none">OmniCode</h1>
             <form onSubmit={joinRoom} className="flex w-full flex-col gap-4">
                 <input
                     type="text"
